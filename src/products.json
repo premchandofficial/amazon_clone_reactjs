@@ -1,0 +1,36 @@
+[
+    
+      {
+            "id"   : 1,
+            "quantiy" : 1,
+            "title" : "Leptop",
+            "category" : "" ,
+            "price"   : 100,
+            "image"  : "../public/ecom-pics/leptop.jpg"
+        },
+        {
+            "id"   : 2,
+            "title" : "Sumsung mobile",
+            "quantiy" : 1,
+            "category" : "" ,
+            "price"   : 120,
+            "image"  : "../public/ecom-pics/sumsung mobile.jpg"
+        },
+        {
+            "id"   : 3,
+            "quantiy" : 1,
+            "title" : "Man ring",
+            "category" : "" ,
+            "price"   : 50,
+            "image"  : "../public/ecom-pics/man ring.jpg"
+        },
+        {
+            "id"   : 4,
+            "title" : "Man shirt",
+            "quantiy" : 1,
+            "category" : "" ,
+            "price"   : 200,
+            "image"  : "../public/ecom-pics/man shirt.jpg"
+        }
+       
+]
